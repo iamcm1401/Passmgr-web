@@ -9,7 +9,6 @@
                     <label>Password:</label><input type = "password" name = "pwd" />
                     <br/>
                     <br/>
-                    <br/>
                   </p>
                 <input type = "submit" name="submit_btn" id = "submit" value = "submit"/>
                 <input type = "reset"  id = "reset" value = "reset"/>
